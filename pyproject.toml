@@ -12,6 +12,8 @@ numpy = "^2.4.2"
 statsmodels = "^0.14.6"
 keras = "^3.13.2"
 tensorflow = "^2.20.0"
+pyarrow = "^23.0.0"
+huggingface-hub = "^1.4.1"
 
 
 [tool.poetry.group.dev.dependencies]
